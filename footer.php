@@ -28,7 +28,7 @@
                             </div>
                             <div class="col-md-10 col-xs-9 col-sm-9 col-lg-10">
                                 <p>
-                                    <a href="mailto:demo@yourmail.com">demo@yourmail.com.com</a>
+                                    <a href="#">demo@yourmail.com.com</a>
                                 </p>
                             </div>
                         </div>
@@ -38,9 +38,9 @@
                             </div>
                             <div class="col-md-10 col-xs-9 col-sm-9 col-lg-10">
                                 <p>
-                                    <a href="tel:+91-123 456789">+91-123-456789</a>
+                                    <a href="#">+91-123-456789</a>
                                     <br />
-                                    <a href="tel:+91 123 456789">+91 123 456789</a>
+                                    <a href="#">+91 123 456789</a>
                                 </p>
                             </div>
                         </div>
@@ -50,7 +50,7 @@
                             <img src="assets/images/ract.png" height="17"> Education</h5>
                         <ul class="pl-xs-20">
                             <li>
-                                <a href="education.html">Evolution</a>
+                                <a href="#">Evolution</a>
                             </li>
                             <li>
                                 <a href="#">4c's</a>
@@ -87,19 +87,19 @@
                     <div class="col-md-10 col-md-offset-1 mt-30 footer_link">
                         <ul class="list-inline text-uppercase text-center font-11 font-weight-bold">
                             <li>
-                                <a href="story.html">story of elegant</a>
+                                <a href="#">story of elegant</a>
                             </li>
                             <li>
                                 <a href="#">blog</a>
                             </li>
                             <li>
-                                <a href="education.html">education</a>
+                                <a href="#">education</a>
                             </li>
                             <li>
-                                <a href="contact.html">contact us</a>
+                                <a href="#">contact us</a>
                             </li>
                             <li>
-                                <a href="login.html">log in</a>
+                                <a href="#">log in</a>
                             </li>
                         </ul>
                     </div>

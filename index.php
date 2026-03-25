@@ -78,19 +78,19 @@ require_once("header.php");
                 </div>
 
                 <!-- Controls -->
-                <a class="left sli_left carousel-control" href="#carousel-example-generic" role="button" style="opacity: 1 !important;" data-slide="prev">
+                <a class="left sli_left carousel-control" href="#" role="button" style="opacity: 1 !important;" data-slide="prev">
                     <img src="assets/images/left_arrow_slider.png" alt="" style="position: absolute;bottom: 2vh;right: 6vh;z-index: 10;" class="animate__animated animate__pulse infinite">
                     <!-- <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> -->
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="right sli_right carousel-control" href="#carousel-example-generic" style="opacity: 1 !important;    bottom: 72px !important; right: 20px !important;" role="button" data-slide="next">
+                <a class="right sli_right carousel-control" href="#" style="opacity: 1 !important;    bottom: 72px !important; right: 20px !important;" role="button" data-slide="next">
                     <img src="assets/images/right_arrow_slider.png" alt="" style="position: absolute;bottom: 2.5vh;right: 6vh;" class="animate__animated animate__pulse infinite">
                     <!-- <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> -->
                     <span class="sr-only">Next</span>
                 </a>
             </div>
             <div class="topTobottom">
-                <a href="#about"> <i class="fa fa-chevron-down"></i></a>
+                <a href="#"> <i class="fa fa-chevron-down"></i></a>
             </div>
         </section>
         <!-- main slider end -->

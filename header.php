@@ -4,8 +4,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-        <meta name="description" content="diamond jewellery shop template">
-        <title>Elegant | Diamond & Jewellery Shop/Business HTML Theme</title> 
+        <meta name="description" content="">
+        <title>jc</title> 
 
         <link href="assets/images/favicon.png" rel="icon">
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
@@ -39,7 +39,7 @@
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                 </button>
-                                <a class="navbar-brand pl-100 pl-xs-0" href="index.html">
+                                <a class="navbar-brand pl-100 pl-xs-0" href="#">
                                     <img src="assets/images/logo.png" class="ml-xs-15">
                                 </a>
                             </div>
@@ -48,9 +48,9 @@
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                 <ul class="nav navbar-nav navbar-right pr-100">
                                     <li><a href="index.php" class="active">Home</a></li>
-                                    <li><a href="about.php">about us</a></li>
-                                    <li><a href="shop.php">shop</a></li>
-                                    <li><a href="contact.php">contact us</a></li>
+                                    <li><a href="#">about us</a></li>
+                                    <li><a href="#">shop</a></li>
+                                    <li><a href="#">contact us</a></li>
                                     
                                 </ul>
                             </div><!-- /.navbar-collapse -->
