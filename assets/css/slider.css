@@ -1,0 +1,132 @@
+@media (max-width: 991.98px) {
+    .padding {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .padding {
+        padding: 1rem;
+    }
+}
+
+.padding {
+    padding: 5rem;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    height: 49vh !important;
+    word-wrap: break-word;
+    background: url(../images/card_box.png);
+    background-size: 100% 100%;
+    transform: scale(1.2, 1.1);
+    outline: none;
+}
+.card img {
+    width: 10vh;
+    height: 10vh;
+    margin-top: 12vh;
+    margin-left: 3vh;
+    object-fit: contain;
+    z-index: 111;
+}
+.card center {
+    position: relative;
+}
+.card center::after {
+    content: "";
+    bottom: -10px;
+    right: 10vh;
+    width: 8vh;
+    height: 14vh;
+    background-color: #d8d8d8;
+    position: absolute;
+    z-index: -1;
+}
+.card h4 {
+    margin-top: 5vh;
+    margin-bottom: 2vh;
+    margin-left: 3vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+.card p {
+    margin-top: 10px;
+    color: #999;
+    padding: 5px 35px 5px 8vh;
+}
+.card .card-body {
+    padding: 1rem 1rem;
+}
+.slick-prev:before {
+    content: url(../images/left_arrow.png) !important;
+    margin-left: -90px;
+}
+.slick-next:before {
+    content: url(../images/right_arrow.png) !important;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.items {
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+
+.slick-slide {
+    margin: 10px;
+}
+
+.media iframe,
+.media-content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 0;
+    border-radius: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: rgba(120, 120, 120, 0.1);
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.media-content:before {
+    content: "";
+    position: absolute;
+    height: 10%;
+    width: 90%;
+    left: 5%;
+    bottom: 0;
+    background: inherit;
+    background-position-y: 100%;
+    filter: blur(10px);
+}
+
+.circle .media-content:before {
+    width: 40%;
+    left: 30%;
+}
+
+.profile-image {
+    width: 100px;
+}
+
+.card-title {
+    font-size: 19px;
+    font-weight: 200;
+}
